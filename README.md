@@ -662,4 +662,4 @@ int main(int argc, char **argv)
 ![image](https://github.com/user-attachments/assets/4df5d6b9-effc-4a5a-953f-38cb18947020)
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more 0.040478 time.
+Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more 0.040478s time.
